@@ -34,3 +34,4 @@ dmesg | tail -n 1
 
 sudo rmmod calc_proc
 make clean >> log.txt
+
